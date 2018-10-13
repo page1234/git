@@ -3,4 +3,4 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Build a branch with name dev, and merge it to master.
-Create a new branch is quick & simpile.
+Create a new branch is quick AND simpile.
