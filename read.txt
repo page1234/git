@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Build a branch with name dev, and merge it to master.
 Create a new branch is quick AND simpile.
+This modify is happend in dev branch.
