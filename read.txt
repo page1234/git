@@ -9,3 +9,4 @@ I want merge, but without a commit in branch.
 Edit in dev branch.
 Edit in dev branch second time.
 Edit in dev branch third time.
+Edit in dev branch fourth time.
