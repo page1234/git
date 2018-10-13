@@ -8,3 +8,4 @@ The next step shoud without a commit in branch.
 This modify is happend in dev branch.
 I want merge, but without a commit in branch.
 Edit in dev branch.
+Edit in dev branch second time.
