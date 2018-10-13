@@ -7,3 +7,4 @@ Create a new branch is quick AND simpile.
 The next step shoud without a commit in branch.
 This modify is happend in dev branch.
 I want merge, but without a commit in branch.
+Edit in dev branch.
