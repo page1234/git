@@ -17,3 +17,5 @@ I write this line in issue-101 branch.
 I should finish 
 
 I should finish tt
+
+I wanna to modify this file after reaset to HEAD^, and I want to konw what will be happend?
