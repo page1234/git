@@ -2,6 +2,7 @@ Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
+This is a new line.
 Build a branch with name dev, and merge it to master.
 Create a new branch is quick AND simpile.
 The next step shoud without a commit in branch.
