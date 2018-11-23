@@ -23,7 +23,7 @@ Add this line, then merge to master branch.
 Add a new line, then merge this line to master.
 
 master: 1 add this line.
-
+master: 2 add the 2 line .
 Add this line int sprint1 branch, then merge this commit to maste
 
 1, add this line in sprint2 branch, to mock hotfix.
