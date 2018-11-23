@@ -18,5 +18,3 @@ I should finish
 
 I should finish tt
 
-I wanna to modify this file after reaset to HEAD^, and I want to konw what will be happend?
-Add this line, then merge to master branch.
