@@ -26,3 +26,4 @@ Add this line int sprint1 branch, then merge this commit to maste
 
 1, add this line in sprint2 branch, to mock hotfix.
 
+2, add this line, then view commit history.
