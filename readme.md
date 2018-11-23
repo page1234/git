@@ -18,3 +18,6 @@ I should finish
 
 I should finish tt
 
+Add this line, then merge to master branch.
+
+Add a new line, then merge this line to master.
